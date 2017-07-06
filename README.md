@@ -13,3 +13,5 @@ It was completed in 2004
 
 It's a basic drawing software, but it has full function for studying.
 
+MSPaint/runtime2.jpg
+
