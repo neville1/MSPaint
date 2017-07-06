@@ -14,5 +14,8 @@ It was completed in 2004
 It's a basic drawing software, but it has full function for studying.
 
 <img src="https://github.com/neville1/MSPaint/blob/master/runtime2.jpg" />
+<img src="https://github.com/neville1/MSPaint/blob/master/runtime3.jpg" />
+<img src="https://github.com/neville1/MSPaint/blob/master/runtime4.jpg" />
+<img src="https://github.com/neville1/MSPaint/blob/master/runtime5.jpg" />
 
 
